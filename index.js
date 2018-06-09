@@ -1,6 +1,6 @@
 var animal = 'dog'
 
-var n = 72
+var n = 837
 
 function myAnimal() { 
   return animal
